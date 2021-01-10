@@ -110,6 +110,6 @@ nav label{
 .submenu{
     display: none;
 }
-nav input[type=checkbox]: checked - ul{
+nav input[type=checkbox]:checked - ul{
     display: block;
 }
