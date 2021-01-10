@@ -111,6 +111,6 @@ nav label{
     display: none;
   }
 }
-nav input[type=checkbox]:checked - ul{
-    display: block;
+nav input[type=checkbox] :checked -ul{ 
+  display: block;
 }
