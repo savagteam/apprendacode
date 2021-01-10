@@ -96,7 +96,7 @@ nav input[type=checkbox]{
 nav label{
   display: none;
 }
-@media screen and (min-width: 780px){
+@media screen and (max-width: 780px){
   .menu-mobile{
     display: block;
     color: black;
