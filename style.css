@@ -1,5 +1,5 @@
 body{
-  font-family: 'Source code pro', Sans-Serif, Serif;
+  font-family: 'Source code pro', Serif, Sans-Serif, Serif;
   margin: 0px;
   padding: 0px;
 }
@@ -96,7 +96,7 @@ nav input[type=checkbox]{
 nav label{
   display: none;
 }
-@media screen and (max-width: 780px){
+@media screen and (max-min: 780px){
   .menu-mobile{
     display: block;
     color: green;
