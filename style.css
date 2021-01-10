@@ -96,7 +96,7 @@ nav input[type=checkbox]{
 nav label{
   display: none;
 }
-nav input[type=checkbox] :checked -ul{ 
+nav input[type=checkbox]:checked -ul{ 
   display: block;
 }
 @media screen and (max-width: 780px){
