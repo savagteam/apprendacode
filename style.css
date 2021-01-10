@@ -90,3 +90,15 @@ nav > ul > li:hover a{
 .menu-js .submenu li:hover{
   background-color: gold;
 }
+@media screen and (min-width: 780px){
+  .menu-mobile{
+    display: block;
+    color: black;
+    background-color: green;
+    text-align: center;
+    padding: 12px 0px;
+  }
+  nav ul{
+    display: none;
+  }
+}
