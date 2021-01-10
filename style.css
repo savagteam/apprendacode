@@ -97,7 +97,7 @@ nav label{
   display: none;
 }
 nav input[type=checkbox]:checked -ul{ 
-  display: block;
+  display: inline-block;
 }
 @media screen and (max-width: 780px){
   .menu-mobile{
