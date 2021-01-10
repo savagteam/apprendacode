@@ -90,6 +90,12 @@ nav > ul > li:hover a{
 .menu-js .submenu li:hover{
   background-color: gold;
 }
+nav input[type="checkbox"]{
+  display: none;
+}
+nav label{
+  display: none;
+}
 @media screen and (min-width: 780px){
   .menu-mobile{
     display: block;
