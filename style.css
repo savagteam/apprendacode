@@ -100,7 +100,7 @@ nav label{
   .menu-mobile{
     display: block;
     color: #FFF;
-    background-color: black;
+    background-color: grey;
     text-align: center;
     padding: 12px 0px;
   }
