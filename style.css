@@ -96,8 +96,9 @@ nav input[type=checkbox]{
 nav label{
   display: none;
 }
-nav input[type=checkbox]:checked -ul{ 
-  display: inline-block;
+nav input[type=checkbox]:checked + ul{ 
+  display: flex; 
+  flex-flow : column wrap; 
 }
 @media screen and (max-width: 780px){
   .menu-mobile{
