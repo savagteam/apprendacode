@@ -107,4 +107,6 @@ nav label{
   nav ul{
     display: none;
   }
+.submenu{
+    display: none;
 }
