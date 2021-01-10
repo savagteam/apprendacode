@@ -50,7 +50,7 @@ nav li:hover .submenu{
 .submenu li a{
   padding: 15px 30px;
   font-size: 20px;
-  color: white;
+  color: black;
   width: 270px;
 }
 .menu-html:hover{
@@ -89,7 +89,4 @@ nav > ul > li:hover a{
 }
 .menu-js .submenu li:hover{
   background-color: gold;
-}
-.submenu li a{
-  color: black;
 }
