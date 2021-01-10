@@ -50,7 +50,7 @@ nav li:hover .submenu{
 .submenu li a{
   padding: 15px 30px;
   font-size: 20px;
-  color: grey;
+  color: white;
   width: 270px;
 }
 .menu-html:hover{
@@ -66,4 +66,27 @@ nav li:hover .submenu{
 }
 nav > ul > li:hover a{
   padding: 15px 30px 20px 30px;
+}
+.menu-html .submenu{
+  background-color: red;
+}
+.menu-css .submenu{
+  background-color: blue;
+}
+.menu-js .submenu{
+  background-color: yellow;
+}
+.submenu li:hover a{
+  color: white;
+  font-weight: bold;
+}
+.menu-html .submenu li:hover{
+  background-color: darkred;
+  color: white;
+}
+.menu-css .submenu li:hover{
+  background-color: darkblue;
+}
+.menu-js .submenu li:hover{
+  background-color: gold;
 }
