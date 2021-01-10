@@ -90,6 +90,3 @@ nav > ul > li:hover a{
 .menu-js .submenu li:hover{
   background-color: gold;
 }
-.submenu li a{
-  color: black;
-}
