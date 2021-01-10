@@ -99,7 +99,7 @@ nav label{
 @media screen and (max-width: 780px){
   .menu-mobile{
     display: block;
-    color: green;
+    color: #FFF;
     background-color: black;
     text-align: center;
     padding: 12px 0px;
